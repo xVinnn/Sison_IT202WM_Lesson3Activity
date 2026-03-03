@@ -113,6 +113,7 @@ namespace Sison_IT202WM_Lesson3Activity
                     cell.Value = null;
                 }
             }
+            txtTotalUnits.Clear();
         }
 
         private void groupBox2_Enter(object sender, EventArgs e)
